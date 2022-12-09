@@ -14,7 +14,7 @@ with open(file, "r") as json_file:
     data = json.load(json_file)
     j = 0
     for i in data["features"]:
-        formato = i["properties"]          
+        formato = i["properties"]["formatted"]          
         print(f"Index number: {j}")
         print(formato)
         j = j + 1
