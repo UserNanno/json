@@ -1,0 +1,281 @@
+{
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "name": "Mall del Sur",
+                "country": "Peru",
+                "country_code": "pe",
+                "region": "Province of Lima",
+                "state": "Lima",
+                "city": "San Juan de Miraflores",
+                "postcode": "15056",
+                "district": "Los Precursores",
+                "street": "Avenida Panamericana Sur",
+                "lon": -76.9820102591244,
+                "lat": -12.1551628,
+                "state_code": "LIM",
+                "county": "Province of Lima",
+                "formatted": "Mall del Sur, Avenida Panamericana Sur, San Juan de Miraflores 15056, Peru",
+                "address_line1": "Mall del Sur",
+                "address_line2": "Avenida Panamericana Sur, San Juan de Miraflores 15056, Peru",
+                "category": "commercial.shopping_mall",
+                "timezone": {
+                    "name": "America/Lima",
+                    "offset_STD": "-05:00",
+                    "offset_STD_seconds": -18000,
+                    "offset_DST": "-05:00",
+                    "offset_DST_seconds": -18000
+                },
+                "result_type": "amenity",
+                "rank": {
+                    "importance": 0.1626514353057295,
+                    "confidence": 0.9,
+                    "match_type": "full_match"
+                },
+                "place_id": "51a6d18e41d93e53c059901c9f7f714f28c0f00102f901c565c13100000000c0020192030c4d616c6c2064656c20537572"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.9820102591244,
+                    -12.1551628
+                ]
+            },
+            "bbox": [
+                -76.9833147,
+                -12.1563262,
+                -76.9809495,
+                -12.153397
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "name": "Mall Suramerica",
+                "country": "Colombia",
+                "country_code": "co",
+                "state": "Antioquia",
+                "county": "Valle de Aburrá",
+                "city": "Itagüí",
+                "suburb": "Mall Suramerica",
+                "lon": -75.62803399159793,
+                "lat": 6.1608959,
+                "state_code": "ANT",
+                "formatted": "Mall Suramerica, Itagüí, ANT, Colombia",
+                "address_line1": "Mall Suramerica",
+                "address_line2": "Itagüí, ANT, Colombia",
+                "timezone": {
+                    "name": "America/Bogota",
+                    "offset_STD": "-05:00",
+                    "offset_STD_seconds": -18000,
+                    "offset_DST": "-05:00",
+                    "offset_DST_seconds": -18000
+                },
+                "result_type": "suburb",
+                "rank": {
+                    "importance": 0.19999999999999996,
+                    "confidence": 1,
+                    "confidence_city_level": 1,
+                    "match_type": "full_match"
+                },
+                "place_id": "5120ac7bb531e852c059f03d12e5c1a41840f00102f90167f0411a00000000c0020592030f4d616c6c20537572616d6572696361"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -75.62803399159793,
+                    6.1608959
+                ]
+            },
+            "bbox": [
+                -75.6282768,
+                6.1603636,
+                -75.6277961,
+                6.1614069
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "name": "Centro del Sur Mall",
+                "country": "United States",
+                "country_code": "us",
+                "state": "Puerto Rico",
+                "city": "Ponce",
+                "district": "San Antón",
+                "suburb": "San Antón",
+                "retail": "Centro del Sur Mall",
+                "lon": -66.60217171269635,
+                "lat": 18.01042525,
+                "state_code": "PR",
+                "formatted": "Centro del Sur Mall, San Antón, Ponce, PR, United States of America",
+                "address_line1": "Centro del Sur Mall",
+                "address_line2": "San Antón, Ponce, PR, United States of America",
+                "timezone": {
+                    "name": "America/Puerto_Rico",
+                    "offset_STD": "-04:00",
+                    "offset_STD_seconds": -14400,
+                    "offset_DST": "-04:00",
+                    "offset_DST_seconds": -14400,
+                    "abbreviation_STD": "AST",
+                    "abbreviation_DST": "AST"
+                },
+                "result_type": "amenity",
+                "rank": {
+                    "importance": 0.19999999999999996,
+                    "confidence": 0.81,
+                    "match_type": "full_match"
+                },
+                "place_id": "51db2639fb89a650c05979cdab3aab023240f00102f901ea7b422a00000000c0020192031343656e74726f2064656c20537572204d616c6c"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.60217171269635,
+                    18.01042525
+                ]
+            },
+            "bbox": [
+                -66.6033194,
+                18.0086243,
+                -66.6008438,
+                18.0123944
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "name": "Mall Del Sur",
+                "country": "Ecuador",
+                "country_code": "ec",
+                "state": "Guayas",
+                "county": "Guayaquil",
+                "city": "Guayaquil",
+                "postcode": "090108",
+                "district": "Parroquia Ximena",
+                "neighbourhood": "Ciudadela Luis Morejón Almeida",
+                "suburb": "Ximena",
+                "street": "Avenida 1 SO",
+                "lon": -79.89845378877533,
+                "lat": -2.2288224000000003,
+                "state_code": "G",
+                "formatted": "Mall Del Sur, Avenida 1 SO, 090108, Guayaquil, Ecuador",
+                "address_line1": "Mall Del Sur",
+                "address_line2": "Avenida 1 SO, 090108, Guayaquil, Ecuador",
+                "category": "building.commercial",
+                "timezone": {
+                    "name": "America/Guayaquil",
+                    "offset_STD": "-05:00",
+                    "offset_STD_seconds": -18000,
+                    "offset_DST": "-05:00",
+                    "offset_DST_seconds": -18000
+                },
+                "result_type": "amenity",
+                "rank": {
+                    "confidence": 0.9,
+                    "match_type": "full_match"
+                },
+                "place_id": "5178f0514480f953c059e4bca4d6a0d401c0f00102f901aedc1e0200000000c0020192030c4d616c6c2044656c20537572"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.89845378877533,
+                    -2.2288224000000003
+                ]
+            },
+            "bbox": [
+                -79.8989987,
+                -2.230316,
+                -79.8979264,
+                -2.2280852
+            ]
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright"
+                },
+                "name": "Granier-sur-Aime",
+                "country": "France",
+                "country_code": "fr",
+                "region": "Metropolitan France",
+                "state": "Auvergne-Rhône-Alpes",
+                "county": "Savoy",
+                "city": "Aime-la-Plagne",
+                "hamlet": "La Chavonne",
+                "municipality": "Albertville",
+                "postcode": "73210",
+                "district": "Granier",
+                "lon": 6.648815390297742,
+                "lat": 45.58089715,
+                "state_code": "ARA",
+                "formatted": "Granier-sur-Aime, 73210 Aime-la-Plagne, France",
+                "address_line1": "Granier-sur-Aime",
+                "address_line2": "73210 Aime-la-Plagne, France",
+                "timezone": {
+                    "name": "Europe/Paris",
+                    "offset_STD": "+01:00",
+                    "offset_STD_seconds": 3600,
+                    "offset_DST": "+02:00",
+                    "offset_DST_seconds": 7200,
+                    "abbreviation_STD": "CET",
+                    "abbreviation_DST": "CEST"
+                },
+                "result_type": "amenity",
+                "rank": {
+                    "importance": 0.19999999999999996,
+                    "confidence": 0,
+                    "match_type": "full_match"
+                },
+                "place_id": "5190e1c90f63981a405978cb7ad65aca4640f00102f9017505230d00000000c002019203104772616e6965722d7375722d41696d65"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.648815390297742,
+                    45.58089715
+                ]
+            },
+            "bbox": [
+                6.64425,
+                45.576382,
+                6.6525272,
+                45.5858296
+            ]
+        }
+    ],
+    "type": "FeatureCollection",
+    "query": {
+        "text": "Mall Sur"
+    }
+}
